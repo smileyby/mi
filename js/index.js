@@ -17,7 +17,7 @@ shop.hover(function()
 	})
 /*顶导航结束*/
 /*主导航开始*/
-var xiala=$(".mainword-xialabox");
+/*var xiala=$(".mainword-xialabox");
 var mainword=$(".main-word");
 mainword.hover(function()
 	{
@@ -27,7 +27,7 @@ mainword.hover(function()
 	{
 		$(this).find(".mainword-xialabox").animate({height:0},200);
 		$(this).find(".mainword-xialabox").css("border-top","none");
-	})
+	})*/
 /*主导航结束*/
 /*search begin*/
 var search=$(".main-rightbox");
